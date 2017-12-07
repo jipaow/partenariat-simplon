@@ -3,15 +3,15 @@
 
 ### Description :
 
-...
+...plugin partenariat simplon: affiche un message de partenariat dans les articles
 
 ### Installation :
 
-...
+...Dans extension: telerverser une exttension, installer et activer Shortcode.zip
 
 ### Utilisation :
 
-...
+...ecrire entre crochet le nom du shortcode dans l'article exemple:[simplon]
 
 ### Ressources :
 #### Déclaration du plugin :
