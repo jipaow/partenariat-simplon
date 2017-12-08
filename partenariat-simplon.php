@@ -6,7 +6,7 @@ Plugin URI:   https://github.com/jipaow/partenariat-simplon/edit/master/partenar
 Description:  Basic WordPress Plugin message partenariat et lien
 Version:      1.0
 Author:       JipPres
-Author URI:   https://github.com/jipaow/partenariat-simplon
+Author URI:   https://github.com/jipaow
 License:      LPS2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wporg
