@@ -14,7 +14,7 @@ Domain Path:  /languages
 */
 function Shortcode() {
 	return '<p>La publication de cet article est possible grâce à mon super partenaire 
-simplon.co
+<a href="https://simplon.co>simplon.co</a>
  - une entreprise de 
 l’économie sociale et solidaire et un
 réseau de « fabriques » (écoles) qui propose 
