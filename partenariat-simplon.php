@@ -2,11 +2,11 @@
 <?php
 /*
 Plugin Name:  simplon
-Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
-Description:  Basic WordPress Plugin Header Comment
-Version:      20160911
+Plugin URI:   https://github.com/jipaow/partenariat-simplon/edit/master/partenariat-simplon.php
+Description:  Basic WordPress Plugin message partenariat et lien
+Version:      1.0
 Author:       JipPres
-Author URI:   https://developer.wordpress.org/
+Author URI:   https://github.com/jipaow/partenariat-simplon
 License:      LPS2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wporg
