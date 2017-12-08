@@ -3,7 +3,7 @@
 
 ### Description :
 
-...plugin partenariat simplon: affiche un message de partenariat dans les articles
+...plugin partenariat simplon: affiche un message de partenariat dans les articles ainsi qu'un lien vers simplon.co
 
 ### Installation :
 
