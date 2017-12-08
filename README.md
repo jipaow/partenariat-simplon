@@ -7,7 +7,7 @@
 
 ### Installation :
 
-...Dans extension: telerverser une exttension, installer et activer Shortcode.zip
+...Dans extension: telerverser une extension, installer et activer Shortcode.zip
 
 ### Utilisation :
 
